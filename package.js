@@ -1,6 +1,6 @@
 Package.describe({
   name: 'useful:collection-override',
-  version: '0.1.0',
+  version: '0.1.1',
   summary: 'Allows you to override the default server method handlers for collection operations.',
   git: 'http://github.com/usefulio/collection-override',
   documentation: 'README.md'
