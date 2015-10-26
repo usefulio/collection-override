@@ -2,7 +2,7 @@
 
 __Installation__ 
 
-`meteor add useful:collection-overrides`
+`meteor add useful:collection-override`
 
 __Usage__
 
